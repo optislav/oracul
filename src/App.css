@@ -12,6 +12,7 @@ body h1.ant-typography {
 }
 
 img {
+  cursor: help;
   height: 100vh;
 }
 
@@ -24,8 +25,25 @@ img {
   border: none;
 }
 
+.textarea::-webkit-scrollbar {
+  width: 6px;
+}
+
+.textarea::-webkit-scrollbar-thumb {
+  background-color: #c4c4c4;
+  border-radius: 8px;
+}
+
 .right {
   padding: 30px 25px;
   width: 100%;
   flex-grow: 1;
+}
+
+ol {
+  font-size: 25px;
+}
+
+body .modal h1.ant-typography {
+  color: black !important;
 }

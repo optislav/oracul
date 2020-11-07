@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-import { Button, Input, Typography } from 'antd';
+import { Input, Modal, Typography } from 'antd';
 import robot from './robot.jpg';
 import './App.css';
 import { useEffect, useRef, useState } from 'react';
@@ -70,9 +70,24 @@ function App() {
     console.log(args);
   }
 
+  const [isVisible, setIsVisible] = useState(true);
+  const closeModal = () => {
+    setIsVisible(false);
+  }
+
   return (
     <div className="App">
-      <img className="robot-img" src={robot} alt=""/>
+      <Modal className="modal" title="Инструкция" visible={isVisible} onOk={closeModal} cancelText="Ок" onCancel={closeModal}>
+        <Typography.Title level={2}>
+          Чтобы поговорить с Оракулом:
+        </Typography.Title>
+        <ol>
+          <li>Нажмите на его лицо</li>
+          <li>Разрешите браузеру доступ к микрофону</li>
+          <li>Задайте ваш вопрос голосом</li>
+        </ol>
+      </Modal>
+      <img className="robot-img" src={robot} alt="" onClick={handleClick} />
       <div className="right">
         <Typography.Title>Оракул отвечает</Typography.Title>
         <Input.TextArea
@@ -82,11 +97,6 @@ function App() {
           onChange={handleChange}
           rows={15}
         />
-        <div className="buttons">
-          <Button size="large" type="primary" onClick={handleClick}>
-            Сказать 
-          </Button>
-        </div>
       </div>
     </div>
   );

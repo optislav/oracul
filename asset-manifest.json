@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/avalsoff.github.io/oracul/static/css/main.5fcf8e8a.chunk.css",
+    "main.js": "/avalsoff.github.io/oracul/static/js/main.0a269e8d.chunk.js",
+    "main.js.map": "/avalsoff.github.io/oracul/static/js/main.0a269e8d.chunk.js.map",
+    "runtime-main.js": "/avalsoff.github.io/oracul/static/js/runtime-main.ff3499c1.js",
+    "runtime-main.js.map": "/avalsoff.github.io/oracul/static/js/runtime-main.ff3499c1.js.map",
+    "static/css/2.617c3bb8.chunk.css": "/avalsoff.github.io/oracul/static/css/2.617c3bb8.chunk.css",
+    "static/js/2.7095f94b.chunk.js": "/avalsoff.github.io/oracul/static/js/2.7095f94b.chunk.js",
+    "static/js/2.7095f94b.chunk.js.map": "/avalsoff.github.io/oracul/static/js/2.7095f94b.chunk.js.map",
+    "static/js/3.0420dfe8.chunk.js": "/avalsoff.github.io/oracul/static/js/3.0420dfe8.chunk.js",
+    "static/js/3.0420dfe8.chunk.js.map": "/avalsoff.github.io/oracul/static/js/3.0420dfe8.chunk.js.map",
+    "index.html": "/avalsoff.github.io/oracul/index.html",
+    "static/css/2.617c3bb8.chunk.css.map": "/avalsoff.github.io/oracul/static/css/2.617c3bb8.chunk.css.map",
+    "static/css/main.5fcf8e8a.chunk.css.map": "/avalsoff.github.io/oracul/static/css/main.5fcf8e8a.chunk.css.map",
+    "static/js/2.7095f94b.chunk.js.LICENSE.txt": "/avalsoff.github.io/oracul/static/js/2.7095f94b.chunk.js.LICENSE.txt",
+    "static/media/robot.26134c8c.jpg": "/avalsoff.github.io/oracul/static/media/robot.26134c8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff3499c1.js",
+    "static/css/2.617c3bb8.chunk.css",
+    "static/js/2.7095f94b.chunk.js",
+    "static/css/main.5fcf8e8a.chunk.css",
+    "static/js/main.0a269e8d.chunk.js"
+  ]
+}

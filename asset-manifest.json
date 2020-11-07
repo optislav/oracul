@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/oracul/static/css/main.5fcf8e8a.chunk.css",
-    "main.js": "/oracul/static/js/main.0a269e8d.chunk.js",
-    "main.js.map": "/oracul/static/js/main.0a269e8d.chunk.js.map",
-    "runtime-main.js": "/oracul/static/js/runtime-main.82b24646.js",
-    "runtime-main.js.map": "/oracul/static/js/runtime-main.82b24646.js.map",
+    "main.css": "/oracul/static/css/main.12e611ee.chunk.css",
+    "main.js": "/oracul/static/js/main.d49cde7e.chunk.js",
+    "main.js.map": "/oracul/static/js/main.d49cde7e.chunk.js.map",
+    "runtime-main.js": "/oracul/static/js/runtime-main.d15e2b34.js",
+    "runtime-main.js.map": "/oracul/static/js/runtime-main.d15e2b34.js.map",
     "static/css/2.617c3bb8.chunk.css": "/oracul/static/css/2.617c3bb8.chunk.css",
-    "static/js/2.d03a5cb2.chunk.js": "/oracul/static/js/2.d03a5cb2.chunk.js",
-    "static/js/2.d03a5cb2.chunk.js.map": "/oracul/static/js/2.d03a5cb2.chunk.js.map",
-    "static/js/3.0420dfe8.chunk.js": "/oracul/static/js/3.0420dfe8.chunk.js",
-    "static/js/3.0420dfe8.chunk.js.map": "/oracul/static/js/3.0420dfe8.chunk.js.map",
+    "static/js/2.6668d035.chunk.js": "/oracul/static/js/2.6668d035.chunk.js",
+    "static/js/2.6668d035.chunk.js.map": "/oracul/static/js/2.6668d035.chunk.js.map",
+    "static/js/3.f3d4faae.chunk.js": "/oracul/static/js/3.f3d4faae.chunk.js",
+    "static/js/3.f3d4faae.chunk.js.map": "/oracul/static/js/3.f3d4faae.chunk.js.map",
     "index.html": "/oracul/index.html",
     "static/css/2.617c3bb8.chunk.css.map": "/oracul/static/css/2.617c3bb8.chunk.css.map",
-    "static/css/main.5fcf8e8a.chunk.css.map": "/oracul/static/css/main.5fcf8e8a.chunk.css.map",
-    "static/js/2.d03a5cb2.chunk.js.LICENSE.txt": "/oracul/static/js/2.d03a5cb2.chunk.js.LICENSE.txt",
+    "static/css/main.12e611ee.chunk.css.map": "/oracul/static/css/main.12e611ee.chunk.css.map",
+    "static/js/2.6668d035.chunk.js.LICENSE.txt": "/oracul/static/js/2.6668d035.chunk.js.LICENSE.txt",
     "static/media/robot.26134c8c.jpg": "/oracul/static/media/robot.26134c8c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.82b24646.js",
+    "static/js/runtime-main.d15e2b34.js",
     "static/css/2.617c3bb8.chunk.css",
-    "static/js/2.d03a5cb2.chunk.js",
-    "static/css/main.5fcf8e8a.chunk.css",
-    "static/js/main.0a269e8d.chunk.js"
+    "static/js/2.6668d035.chunk.js",
+    "static/css/main.12e611ee.chunk.css",
+    "static/js/main.d49cde7e.chunk.js"
   ]
 }

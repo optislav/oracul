@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/oracul/static/css/main.12e611ee.chunk.css",
-    "main.js": "/oracul/static/js/main.d49cde7e.chunk.js",
-    "main.js.map": "/oracul/static/js/main.d49cde7e.chunk.js.map",
+    "main.css": "/oracul/static/css/main.894b1bb2.chunk.css",
+    "main.js": "/oracul/static/js/main.cd0f746d.chunk.js",
+    "main.js.map": "/oracul/static/js/main.cd0f746d.chunk.js.map",
     "runtime-main.js": "/oracul/static/js/runtime-main.d15e2b34.js",
     "runtime-main.js.map": "/oracul/static/js/runtime-main.d15e2b34.js.map",
     "static/css/2.617c3bb8.chunk.css": "/oracul/static/css/2.617c3bb8.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.f3d4faae.chunk.js.map": "/oracul/static/js/3.f3d4faae.chunk.js.map",
     "index.html": "/oracul/index.html",
     "static/css/2.617c3bb8.chunk.css.map": "/oracul/static/css/2.617c3bb8.chunk.css.map",
-    "static/css/main.12e611ee.chunk.css.map": "/oracul/static/css/main.12e611ee.chunk.css.map",
+    "static/css/main.894b1bb2.chunk.css.map": "/oracul/static/css/main.894b1bb2.chunk.css.map",
     "static/js/2.6668d035.chunk.js.LICENSE.txt": "/oracul/static/js/2.6668d035.chunk.js.LICENSE.txt",
     "static/media/robot.26134c8c.jpg": "/oracul/static/media/robot.26134c8c.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.d15e2b34.js",
     "static/css/2.617c3bb8.chunk.css",
     "static/js/2.6668d035.chunk.js",
-    "static/css/main.12e611ee.chunk.css",
-    "static/js/main.d49cde7e.chunk.js"
+    "static/css/main.894b1bb2.chunk.css",
+    "static/js/main.cd0f746d.chunk.js"
   ]
 }

@@ -29,7 +29,7 @@ function App() {
       const ta = textAreaRef.current.resizableTextArea.textArea;
       ta.scrollTop = ta.scrollHeight;
       const data = {
-        prompt: `${newText}.`,
+        prompt: `${textRef.current}.`,
         length: newText.length,
       }
       const response = await fetch("https://pelevin.gpt.dobro.ai/generate/", {

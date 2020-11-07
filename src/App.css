@@ -25,6 +25,12 @@ img {
   border: none;
 }
 
+.textarea:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
 .textarea::-webkit-scrollbar {
   width: 6px;
 }

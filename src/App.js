@@ -95,7 +95,7 @@ function App() {
           className="textarea"
           value={textRef.current}
           onChange={handleChange}
-          rows={15}
+          rows={13}
         />
       </div>
     </div>

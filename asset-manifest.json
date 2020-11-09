@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/oracul/static/css/main.894b1bb2.chunk.css",
-    "main.js": "/oracul/static/js/main.1a89db29.chunk.js",
-    "main.js.map": "/oracul/static/js/main.1a89db29.chunk.js.map",
+    "main.js": "/oracul/static/js/main.27ccb20b.chunk.js",
+    "main.js.map": "/oracul/static/js/main.27ccb20b.chunk.js.map",
     "runtime-main.js": "/oracul/static/js/runtime-main.d15e2b34.js",
     "runtime-main.js.map": "/oracul/static/js/runtime-main.d15e2b34.js.map",
     "static/css/2.617c3bb8.chunk.css": "/oracul/static/css/2.617c3bb8.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.617c3bb8.chunk.css",
     "static/js/2.6668d035.chunk.js",
     "static/css/main.894b1bb2.chunk.css",
-    "static/js/main.1a89db29.chunk.js"
+    "static/js/main.27ccb20b.chunk.js"
   ]
 }

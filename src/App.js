@@ -24,12 +24,17 @@ function App() {
 
     recognition.onresult = async function(event) {
       const newText = event.results[0][0].transcript;
-      textRef.current = `${textRef.current}\n${newText}.`;
+      console.log(newText);
+      if (newText.trim()[newText.trim().length - 1] === '?') {
+        textRef.current = `${textRef.current}\n${newText}`;
+      } else {
+        textRef.current = `${textRef.current}\n${newText}.`;
+      }
       forceUpdate({});
       const ta = textAreaRef.current.resizableTextArea.textArea;
       ta.scrollTop = ta.scrollHeight;
       const data = {
-        prompt: `${textRef.current}.`,
+        prompt: `${textRef.current}`,
         length: newText.length,
       }
       const response = await fetch("https://pelevin.gpt.dobro.ai/generate/", {

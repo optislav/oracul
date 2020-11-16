@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Welcome to the best project in the entire world!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

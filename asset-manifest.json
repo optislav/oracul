@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/oracul/static/css/main.894b1bb2.chunk.css",
-    "main.js": "/oracul/static/js/main.27ccb20b.chunk.js",
-    "main.js.map": "/oracul/static/js/main.27ccb20b.chunk.js.map",
-    "runtime-main.js": "/oracul/static/js/runtime-main.d15e2b34.js",
-    "runtime-main.js.map": "/oracul/static/js/runtime-main.d15e2b34.js.map",
-    "static/css/2.617c3bb8.chunk.css": "/oracul/static/css/2.617c3bb8.chunk.css",
-    "static/js/2.6668d035.chunk.js": "/oracul/static/js/2.6668d035.chunk.js",
-    "static/js/2.6668d035.chunk.js.map": "/oracul/static/js/2.6668d035.chunk.js.map",
-    "static/js/3.f3d4faae.chunk.js": "/oracul/static/js/3.f3d4faae.chunk.js",
-    "static/js/3.f3d4faae.chunk.js.map": "/oracul/static/js/3.f3d4faae.chunk.js.map",
+    "main.css": "/oracul/static/css/main.b9f2060f.chunk.css",
+    "main.js": "/oracul/static/js/main.26c9762d.chunk.js",
+    "main.js.map": "/oracul/static/js/main.26c9762d.chunk.js.map",
+    "runtime-main.js": "/oracul/static/js/runtime-main.c55bc12e.js",
+    "runtime-main.js.map": "/oracul/static/js/runtime-main.c55bc12e.js.map",
+    "static/css/2.a84352ec.chunk.css": "/oracul/static/css/2.a84352ec.chunk.css",
+    "static/js/2.b140252e.chunk.js": "/oracul/static/js/2.b140252e.chunk.js",
+    "static/js/2.b140252e.chunk.js.map": "/oracul/static/js/2.b140252e.chunk.js.map",
+    "static/js/3.261bfa2a.chunk.js": "/oracul/static/js/3.261bfa2a.chunk.js",
+    "static/js/3.261bfa2a.chunk.js.map": "/oracul/static/js/3.261bfa2a.chunk.js.map",
     "index.html": "/oracul/index.html",
-    "static/css/2.617c3bb8.chunk.css.map": "/oracul/static/css/2.617c3bb8.chunk.css.map",
-    "static/css/main.894b1bb2.chunk.css.map": "/oracul/static/css/main.894b1bb2.chunk.css.map",
-    "static/js/2.6668d035.chunk.js.LICENSE.txt": "/oracul/static/js/2.6668d035.chunk.js.LICENSE.txt",
+    "static/css/2.a84352ec.chunk.css.map": "/oracul/static/css/2.a84352ec.chunk.css.map",
+    "static/css/main.b9f2060f.chunk.css.map": "/oracul/static/css/main.b9f2060f.chunk.css.map",
+    "static/js/2.b140252e.chunk.js.LICENSE.txt": "/oracul/static/js/2.b140252e.chunk.js.LICENSE.txt",
     "static/media/robot.26134c8c.jpg": "/oracul/static/media/robot.26134c8c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d15e2b34.js",
-    "static/css/2.617c3bb8.chunk.css",
-    "static/js/2.6668d035.chunk.js",
-    "static/css/main.894b1bb2.chunk.css",
-    "static/js/main.27ccb20b.chunk.js"
+    "static/js/runtime-main.c55bc12e.js",
+    "static/css/2.a84352ec.chunk.css",
+    "static/js/2.b140252e.chunk.js",
+    "static/css/main.b9f2060f.chunk.css",
+    "static/js/main.26c9762d.chunk.js"
   ]
 }

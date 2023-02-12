@@ -53,7 +53,7 @@ function App() {
         "credentials": "omit"
       });
       const json = await response.json();
-      const reply = json.replies[1];
+      const reply = json.replies[0];
       textRef.current = `${textRef.current}\n${reply}`;
       forceUpdate({});
       ta.scrollTop = ta.scrollHeight;
